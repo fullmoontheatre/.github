@@ -15,3 +15,4 @@ You can contribute by forking our repositories and creating pull requests includ
 * Articles
   * [THE FULL MOON THEATRE, by Peter Rice Ove Arup & Partners RFR](https://archiframe.wordpress.com/2014/02/24/the-full-moon-theatre-by-peter-rice-ove-arup-partners-rfr/) on archiframe
   * [The Full Moon Theatre](https://www.notechmagazine.com/2013/03/the-full-moon-theatre.html) on No Tech Magazine
+  * [Recreating the Full Moon Theatre](https://www.daylightandarchitecture.com/recreating-the-full-moon-theatre/) on Daylight & Architecture magazine
